@@ -1,0 +1,16 @@
+D:\DesignPattern\StrategyPatternExample\StrategyPatternExample\bin\Debug\StrategyPatternExample.exe.config
+D:\DesignPattern\StrategyPatternExample\StrategyPatternExample\bin\Debug\StrategyPatternExample.exe
+D:\DesignPattern\StrategyPatternExample\StrategyPatternExample\bin\Debug\StrategyPatternExample.pdb
+D:\DesignPattern\StrategyPatternExample\StrategyPatternExample\obj\Debug\StrategyPatternExample.csproj.AssemblyReference.cache
+D:\DesignPattern\StrategyPatternExample\StrategyPatternExample\obj\Debug\StrategyPatternExample.csproj.CoreCompileInputs.cache
+D:\DesignPattern\StrategyPatternExample\StrategyPatternExample\obj\Debug\StrategyPatternExample.exe
+D:\DesignPattern\StrategyPatternExample\StrategyPatternExample\obj\Debug\StrategyPatternExample.pdb
+D:\DesignPattern\StrategyPatternExample\StrategyPatternExample\obj\Debug\StrategyPatternExample.csproj.SuggestedBindingRedirects.cache
+D:\DesignPattern\StrategyPatternExample_1\StrategyPatternExample\bin\Debug\StrategyPatternExample.exe.config
+D:\DesignPattern\StrategyPatternExample_1\StrategyPatternExample\bin\Debug\StrategyPatternExample.exe
+D:\DesignPattern\StrategyPatternExample_1\StrategyPatternExample\bin\Debug\StrategyPatternExample.pdb
+D:\DesignPattern\StrategyPatternExample_1\StrategyPatternExample\obj\Debug\StrategyPatternExample.csproj.AssemblyReference.cache
+D:\DesignPattern\StrategyPatternExample_1\StrategyPatternExample\obj\Debug\StrategyPatternExample.csproj.SuggestedBindingRedirects.cache
+D:\DesignPattern\StrategyPatternExample_1\StrategyPatternExample\obj\Debug\StrategyPatternExample.csproj.CoreCompileInputs.cache
+D:\DesignPattern\StrategyPatternExample_1\StrategyPatternExample\obj\Debug\StrategyPatternExample.exe
+D:\DesignPattern\StrategyPatternExample_1\StrategyPatternExample\obj\Debug\StrategyPatternExample.pdb
